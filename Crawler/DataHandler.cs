@@ -5,7 +5,7 @@ namespace Crawler
 {
 	public class DataHandler
 	{
-		private string _folder = "data";
+		private string _folder = "../../../../data";
 
 		public DataHandler()
 		{
